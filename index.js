@@ -1,4 +1,7 @@
-let name("Rafael");
+let nome  = "Rafael";
 
-console.log("Tem que estudar " + name);
+console.log("Tem que estudar " + nome);
+
+
+
 
